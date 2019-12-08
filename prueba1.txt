@@ -1,6 +1,4 @@
 Dire que esta es prueba
-<<<<<<< HEAD
-ahora modifico esta prueba desde local
-=======
-ahora modifico este prueba desde el servidor
->>>>>>> 25cc764c072737559d740e9e6b1f8865f352d73c
+ahora modifico este prueba desde el servidor 
+añado esto con el sifrado ssh
+
